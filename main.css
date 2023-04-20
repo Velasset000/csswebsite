@@ -1,0 +1,36 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: helvetica, Arial, sans-serif;
+}
+div {
+    text-align: center;
+    background-color: black;
+    margin: 0 0 0 0;
+    padding: 10px 0 0 0;
+    height: 45px;
+}
+ul li {
+    color: white;
+    display: inline;
+    font-size: 25px;
+}
+li{
+    padding: 50px 15px 0 15px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin: 100px auto 20px auto;
+}
+p {
+    text-align: center;
+    font-weight: lighter;
+}
+body {
+    background-image: url(photos/cover.jpg);
+    background-position-x: center;
+    background-size: cover;
+}
